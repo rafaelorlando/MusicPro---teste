@@ -65,5 +65,5 @@ Os testes tem como base no desafio de automação de Login do seguinte site "htt
 		Verifique se a mensagem de erro é exibida
 		Verifique se o texto da mensagem de erro é 'Your password is invalid!'
 
-Para gerar o relatório  :
+##### Para gerar o relatório  :
 	- allure serve
